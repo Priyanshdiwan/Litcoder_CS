@@ -1,6 +1,6 @@
 # Litcoder_CS_Solutions
 <h2>Hello Coders! </h2>
-The Input handling and Output formatting are done out of the functions and the code is fully optimized!
+The Input handling and Output formatting are done out of the functions.
 <h3>How to Use</h3>
 To access the solutions, follow these steps:
 
